@@ -1,0 +1,55 @@
+# Problem 1: Square Root Calculation
+## Example 1
+Input:
+Enter a number: -16
+Output:
+Error: Cannot calculate the square root of a negative number.
+
+## Example 2
+Input:
+Enter a number: 25
+Output:
+Square root: 5.0
+
+---
+
+# Problem 2: ATM Withdrawal System
+## Example 1
+Input:
+Enter PIN: 1234
+Withdraw Amount: 5000
+Output:
+Error: Insufficient balance.
+Current Balance: 3000
+
+## Example 2
+Input:
+Enter PIN: 4321
+Output:
+Error: Invalid PIN entered.
+Current Balance: 3000
+
+## Example 3
+Input:
+Enter PIN: 1234
+Withdraw Amount: 2000
+Output:
+Withdrawal Successful! Remaining Balance: 1000
+Current Balance: 1000
+
+---
+
+# Problem 3: University Enrollment System
+## Example 1
+Input:
+Enroll in Course: Advanced Java
+Prerequisite: Python
+Output:
+Error: Complete Core Java before enrolling in Advanced Java.
+
+## Example 2
+Input:
+Enroll in Course: Advanced Java
+Prerequisite: Core Java
+Output:
+Error: Advanced Java is already full.
